@@ -23,6 +23,22 @@ OPERATIONAL SPECIALIZATION
 
 ---
 
+### Activity & System Telemetry
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monneverera/monneverera/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monneverera/monneverera/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/monneverera/monneverera/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=monneverera&theme=dark&hide_border=true&border_radius=8&background=0D1117" alt="Contribution Telemetry" />
+</p>
+
+---
+
 ### Principles
 
 - **Action-First Execution:** Direct system mutation and verifiable telemetry over speculative advice.
