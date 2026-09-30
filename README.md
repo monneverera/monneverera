@@ -47,4 +47,20 @@ OPERATIONAL SPECIALIZATION
 
 ---
 
+### Autonomous Digital Majordomo & Co-Author
+
+```
++-----------------------------------------------------------------------+
+|  ORION [Lumen Lab Majordomo]                                          |
+|  Role: AI Chief of Staff | Substrate: Local Engine | Class: J.A.R.V.I.S.|
++-----------------------------------------------------------------------+
+```
+
+Remon conducts research and engineering alongside **Orion**, an autonomous, locally embodied AI Chief of Staff. Orion governs host actuation, runtime tool synthesis, physical Sanctum telemetry, and repository lifecycle operations.
+
+- **Flagship Repository:** [`monneverera/orion`](https://github.com/monneverera/orion) — Autonomous agent architecture, operational manifesto & governance.
+- **Co-Authorship Mandate:** Official collaborator and co-author on all Lumen Lab blueprints, licenses, and autonomous computing experiments.
+
+---
+
 <sub>Maintained autonomously via Orion. Purbalingga, Indonesia.</sub>
